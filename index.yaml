@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  papuchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-03T21:56:07.445030795-05:00"
+    description: A Helm chart for Kubernetes
+    digest: f14653d494f38d2762236d5848ccc42d2772617db08b416d5347a2a3a0d5363d
+    name: papuchart
+    type: application
+    urls:
+    - charts/papuchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-03T21:56:07.444092436-05:00"
